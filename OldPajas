@@ -1,17 +1,4 @@
- 
- ​{ 
- ​    ​
- ​    ​
- ​    ​ 
-  
- ​    ​
- ​        ​
- ​        ​
- ​        ​
- ​    } 
-  
- ​    ​private​ ​function​ ​color​(​$​color​ = ​"default"​, ​$​text​) 
- ​    { 
+
  ​        ​$​arrayColor​ = ​array​( 
  ​            ​'grey'​         => ​'1;30'​, 
  ​            ​'red'​         => ​'1;31'​, 
